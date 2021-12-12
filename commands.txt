@@ -1,0 +1,22 @@
+New project - new file 
+Address = cmd = enter
+
+In git command prompt type- dir
+git <space> init
+
+In Project - View = hidden items
+
+command prompt - git status
+Project - 
+
+command prompt - 
+git add .   // save
+git status  // check
+
+
+git commit -m "description added" // Add message
+git log // check changes made
+
+>git checkout <id> // changes file
+
+
